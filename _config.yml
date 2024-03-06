@@ -32,12 +32,12 @@ navbar-links:
   HKlee's home: "https://deanattali.com"
 
 ################
-# --- https://cdn-www.bluestacks.com/bs-images/0ce20ecdd26a117dd52bea1fc5e3fd09.png --- #
+# --- logo --- #
 ################
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://cdn-www.bluestacks.com/bs-images/0ce20ecdd26a117dd52bea1fc5e3fd09.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true

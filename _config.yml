@@ -27,12 +27,12 @@ url: "hklee7.github.io" # the base hostname & protocol for your site, e.g. http:
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - 사이트1: "https://career.nexon.com/common/main"
-    - 사이트2: "https://youtu.be/U7TkvgpKUm8"
+    - 넥슨채용사이트: "https://career.nexon.com/common/main"
+    - LCK 유튜: "https://youtu.be/U7TkvgpKUm8"
   HKlee's home: "https://deanattali.com"
 
 ################
-# --- Logo --- #
+# --- https://cdn-www.bluestacks.com/bs-images/0ce20ecdd26a117dd52bea1fc5e3fd09.png --- #
 ################
 
 # Image to show in the navigation bar - works best with a square image

@@ -28,8 +28,9 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - 넥슨채용사이트: "https://career.nexon.com/common/main"
-    - LCK 유튜: "https://youtu.be/U7TkvgpKUm8"
-  HKlee's home: "https://deanattali.com"
+    - LCK 유튜브: "https://youtu.be/U7TkvgpKUm8"
+    - 노션 사이트: 
+  HKlee's home: "https://github.com/hklee7"
 
 ################
 # --- logo --- #
@@ -55,12 +56,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  email: "dlgusrbs95@naver.com"
   facebook: deanattali
-  github: daattali
+  github: https://github.com/hklee7
   twitter: daattali
-  patreon: DeanAttali
+  instagram: DeanAttali
   youtube: "@daattali"
 #  medium: yourname
 #  reddit: yourname

@@ -12,7 +12,7 @@ subtitle: Job-Seeker
 - ESTJ
 - 현재 (SeSac 강동, 대외활동, GMS) 진행중
 - 취미: 유튭 
-- 없지만 : 인스타 (https://www.instagram.com/hk_jobseeker)
+- 없지만 : 인스타 [(https://www.instagram.com/hk_jobseeker)]()
 
 ### 업무 활용능력 & 툴
 - 문서 능력 (Word, ppt, excel, google docs)

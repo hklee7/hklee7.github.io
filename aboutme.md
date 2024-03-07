@@ -7,7 +7,7 @@ subtitle: 진정한 잡seeker
 My name is HKlee. I have the following qualities:
 
 - I learn everything
-- I'm extremely loyal to my family
+- I'm extremely loyal to my family.
 
 What else do you need?
 

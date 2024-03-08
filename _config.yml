@@ -17,7 +17,7 @@ author: HKLee
 
 description: 이것저것 다 다루는 블로그
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hklee7.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hklee7.github.io/main.html" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 ###############################################

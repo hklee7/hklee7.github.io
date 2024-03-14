@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>이현균의 프로필</title>
+</head>
+<body>
+    <div align="center">
+        <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=환영~합니다%20&fontSize=100&desc=hklee7%20GitHub&descSize=20&descAlign=80&descAlignY=75"/>
+    </div>
+    <hr>
+    <h1 align="center">나는야 잡시커 이현균</h1>
+    <h3>나는</h3>
+    <blockquote>
+        7전8기, 나무를 10번 넘게 찍어보는 스타일
+        <ul>
+            <li>15년차 오타쿠</li>
+            <li>겜돌이</li>
+            <li>ESTJ</li>
+            <li>취미: <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucefjjv47ryp7slsig77fqbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucefjjv47ryp7slsig77fqbg" height="30" width="35" /></a></li>
+            <li>인스타 : <a href="https://www.instagram.com/hk_jobseeker" target="blank"><img align="center" src="https://mblogthumb-phinf.pstatic.net/MjAxODA4MjBfMTYz/MDAxNTM0NzMxOTA1NzI5.iiZw2j9KPxorBAw1rDxzLH7DjLH4qL0rXPWjDfZDSUIg.VAddbzhp-eDEEqeLYjCNMbZDfIcgjs3GUMUZ8q9aiVgg.PNG.gaogirl/instagram_PNG9.png?type=w800" alt="https://www.instagram.com/hk_jobseeker" height="30" width="30" /></a></li>
+        </ul>
+    </blockquote>
+    <hr>
+    <h3>교육상황</h3>
+    <blockquote>
+        현재
+        <ul>
+            <li>SeSac 강동 : Road to PM (IT 서비스기획)</li>
+            <li>대외활동 : [일간스포츠] 미디어콘텐츠 상장기업 실무프로젝트 (씨네큐/경기도콘텐츠진흥원)</li>
+            <li>GMS : 게임업계 취업을 위한 비밀 스터디모임</li>
+        </ul>
+        과거
+        <ul>
+            <li>행정학과 주전공, 법학과 복수전공</li>
+            <li>인도네시아 이민</li>
+        </ul>
+    </blockquote>
+    <hr>
+    <h3>업무 활용능력</h3>
+    <ol>
+        <li>문서 능력
+            <p align="left">
+                <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/121444009/original/d688597a68f11ff77e14753c642b3140bd54d971/automate-your-excel-word-ppt-outlook-work-using-macro.jpg" alt="cplusplus" width="160" height="70"/>
+            </p>
+        </li>
+        <li>사용가능 툴
+            <p align="left">
+                <a href="https://www.google.com/intl/ko_KR/docs/about/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/google_docs_new_logo_icon_159146.png" alt="cplusplus" width="45" height="45"/>,
+                <a href="https://obsidian.md/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1024px-2023_Obsidian_logo.svg.png" alt="cplusplus" width="40" height="40"/> 
+                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+                <a href="https://hklee7.github.io/aboutme/" target="_blank" rel="noreferrer"> <img src="https://github.com/hklee7/hklee7/assets/161420065/447ab2f4-1ed7-4ceb-b30c-aeeebc26498c" width="40" height="40"/> </a> 
+                <a href="https://www.larksuite.com/ko_kr//" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/WBJp4E5ZLxMhnOBfj3iZ5HAzYjMc180O-qmVyVpQgI8Bwv70f_C_Kng-mzO2hFQ2zg=w240-h480-rw" alt="lark" width="40" height="40"/> </a> 
+                <a href="https://www.notion.so/ko-kr/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/589/804/png-transparent-notion-logo-thumbnail.png" alt="git" width="40" height="40"/> </a> 
+            </p>
+        </li>
+        <li>외국어
+            <ul>
+                <li>일본어</li>
+                <li>인니어</li>
+                <li>영어</li>
+                <li>한국어</li>
+            </ul>
+        </li>
+    </ol>
+    <hr>
+    <h3>최근 관심사</h3>
+    <ul>
+        <li>블록체인</li>
+        <li>BM분석</li>
+        <li>IP 사업개발</li>
+    </ul>
+    <hr>
+    <h3>Contact</h3>
+    이메일 : leehyunkyun95@gmail.com
+    <hr>
+    <h1 align="center">총 방문자수</h1>
+    <div align="center">
+        <a href="https://hklee.me"><img src="https://count.getloli.com/get/@hklee7"/></a>
+    </div>
+    <hr>
+</body>
+</html>
